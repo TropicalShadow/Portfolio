@@ -12,8 +12,7 @@ export const metadata: Metadata = {
 	description: "CyberSecurity Student, Software Engineering, and more",
 	openGraph: {
 		title: "TropicalShadow's Portfolio",
-		description:
-			"CyberSecurity Student, Software Engineering, and more",
+		description: "CyberSecurity Student, Software Engineering, and more",
 		url: "https://me.tesseract.club",
 		siteName: "me.tesseract.club",
 		images: [

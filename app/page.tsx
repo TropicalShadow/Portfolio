@@ -35,15 +35,16 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, I am Tropical, I Develop Crypto Bots, Websites, Discord Bots,<br />
+					Hi, I am Tropical, I Develop Crypto Bots, Websites, Discord Bots,
+					<br />
 					<Link
 						target="_blank"
 						href="https://bridgesplash.net"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						Minecraft Network
-					</Link>
-					{" "}and working on{" "}
+					</Link>{" "}
+					and working on{" "}
 					<Link
 						target="_blank"
 						href="https://thewatcher.io"

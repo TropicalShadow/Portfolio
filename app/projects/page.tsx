@@ -7,11 +7,8 @@ import { Article } from "./article";
 import { Redis } from "@upstash/redis";
 import { Eye } from "lucide-react";
 
-
-
 export const revalidate = 60;
 export default async function ProjectsPage() {
-
 	const sorted = allProjects
 		.filter((p) => p.published)
 		.sort(
